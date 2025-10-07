@@ -38,7 +38,8 @@ Misuse may be illegal.
       - wireless-tools
 ### How to use:
 - Run the script (with root)
-  ```bash sudo python3 Netwizz.py
+  ```bash
+  sudo python3 Netwizz.py
 
 - Main Menu:
   1) Escaneo interactivo (nmap/masscan)
