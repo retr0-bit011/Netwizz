@@ -47,6 +47,13 @@ Misuse may be illegal.
   3) Aircrack-ng suite
   4) Salir
 
+### Captures
+![Foto 1](https://github.com/user-attachments/assets/e2fe8c41-f224-4ef0-b87b-3e2e358e1af8)
+
+
+![Foto2](https://github.com/user-attachments/assets/eb01a976-3a1d-4e00-98aa-748c72490e32)
+
+
 - Author
 retr0bit
 - GitHub: github.com/retr0-bit011
